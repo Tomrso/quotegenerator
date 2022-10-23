@@ -28,6 +28,7 @@ function App() {
     }
     console.log(count)
   }
+  
   return (
     <div className="app-wrapper" style={{background: color}}>
       <Card quote={quote.content} author={quote.author} handleClick={nextQuote} color={color}/>
