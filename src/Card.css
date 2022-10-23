@@ -30,7 +30,7 @@
 }
 #buttonWrapper {
     position:absolute;
-    left: 47%;
+    left: 49%;
     top: 65%;
     opacity: 80%;
 }
@@ -72,7 +72,7 @@
         font-size: 0.9em;
     }
     #buttonWrapper {
-        top: 70%;
+        top: 65%;
         left: 43%;
     }
 }
