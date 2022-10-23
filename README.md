@@ -3,3 +3,4 @@ I took inspiration from the example and added my own style. I enjoyed building t
 Quotes are randomly selected from the 'Quoteable' API found here: https://github.com/lukePeavey/quotable
 Hope this can bring some joy to someone when they need an inspirational quote.
 As always, please let me know where I can improve in my React code!
+Check it out at tomrso-quote-generator.netlify.app
