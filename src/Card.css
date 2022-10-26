@@ -29,10 +29,10 @@
     font-weight: bold;
 }
 #buttonWrapper {
-    position:absolute;
-    left: 47.5%;
-    top: 65%;
-    opacity: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
 }
 #buttonWrapper :hover {
     box-shadow: 1px 1px 5px 2px grey;
