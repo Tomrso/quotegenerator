@@ -54,6 +54,7 @@
 @media only screen and (max-width: 1000px) {
     #quote-box {
         height: 60%;
+        width: 60%;
     }
     #tweet-button {
         margin-left: 75%;
@@ -64,15 +65,8 @@
     }
     #author {
         font-size: 1.0em;
-        padding: 0;
+        padding-right: 20px;
     }
     #new-quote {
-        height: 50px;
-        width: 60px;
-        font-size: 0.9em;
-    }
-    #buttonWrapper {
-        top: 67.5%;
-        left: 44%;
     }
 }
